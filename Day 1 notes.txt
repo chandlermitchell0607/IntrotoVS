@@ -1,0 +1,5 @@
+1.	Create a Virtual Environment (py -3 -m venv introvenv)
+2.	Acitvate the Virtual environment (.\introvenv\Scripts\activate )
+3.	Install 3rd party libraries (pip3 install matplotlib)
+Git is version control, not source control. Git keeps track of the many versions of our file.
+Left is in repository and right is what your new changes
